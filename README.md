@@ -3,14 +3,14 @@
 Игровой Telegram-бот-коллекционер машин.  
 Создано RuDesign. Только эксклюзивные гиперкары, тюнинг, недвижимость и обмен!
 
-[![Run on Replit](https://replit.com/badge/github/ТВОЙ_ЛОГИН/cars-by-rudesign)](https://replit.com/new/github/ТВОЙ_ЛОГИН/cars-by-rudesign)
+[![Run on Replit](https://replit.com/badge/github/PAGANskyDesign/cars-by-rudesign)](https://replit.com/new/github/PAGANskyDesign/cars-by-rudesign)
 
 ## 🔧 Как настроить
 1. Нажми на кнопку **«Run on Replit»** выше  
 2. В Replit открой **Tools → Secrets**  
 3. Добавь новую переменную:  
    - **Key**: `BOT_TOKEN`  
-   - **Value**: токен от [@BotFather](https://t.me/BotFather) (начинается с `6...`)  
+   - **Value**: токен от [@BotFather](https://t.me/BotFather) (выглядит как `123456789:ABCdefGhIJKlmNoPQRsTUVwxyZ`)  
 4. Нажми **▶ Run** — бот запущен!
 
 > 💾 Все данные (машины, баланс, недвижимость) сохраняются в файле `cars_bot.db`  
